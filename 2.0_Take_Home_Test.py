@@ -3,15 +3,15 @@ HONOR CODE: I solemnly promise that while taking this test I will only use PyCha
 but I will definitely not ask another person except the instructor. Signed: Aidan A. Kugley
 
 1.) How do you enter a single line comment in a program?
-
+#use a hashtag to do a single line comment
 
 
 
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
-2 / 3
-2 // 3
-3/2
-3//2
+2 / 3 0.6666666666666666 this formula is for dividing
+2 // 3 0 this is the floor formula
+3/2 1.5 this formula is for square rooting
+3//2 1 this
 
 
 
@@ -21,14 +21,14 @@ but I will definitely not ask another person except the instructor. Signed: Aida
 A = 22
 b = 13
 c = a+b
-
+the formula doesnt work due to a not being defined because we used a capital A
 
 
 
 
 
 4.) All of the variable names below can be used. But which ONE of these is the better variable name to use?
-a
+a this one
 A
 Area
 AREA
@@ -43,28 +43,11 @@ Area_Of_Rectangle
 5.) Which of these variables names are NOT allowed in Python? 
 Test them if you aren't sure.
 
-apple
-Apple
-APPLE
-Apple2
-1Apple
-account number
-account_number
-account.number
-accountNumber
-account#
-pi
-PI
-fred
-Fred
-GreatBigVariable
-greatBigVariable
-great_big_variable
-great.big.variable
-2x
-x2x
-total%
-#left
+1Apple cant be used
+account# cant be used
+total% cant be used
+#left cant be used
+cant be used because they start with numbers or symbols
 
 
 
@@ -72,13 +55,13 @@ total%
 
 
 6.) Predict the output of (a) and its type and then test it?
-a =2
-a*=10
-a/=2
-a+=12
-a-=7
-a
-type(a)
+a =2  i think it will equal 2
+a*=10 i thknk it will be 20
+a/=2 i think it will be 10
+a-=7 i think it will be 3
+a+=5 this will be 15
+a it will be 15
+type(a) <class 'float'>
 
 
 
