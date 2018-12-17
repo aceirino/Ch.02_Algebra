@@ -71,8 +71,7 @@ type(a) <class 'float'>
 
 7.) This program runs, but the code still could be better. How?
 radius = 10
-x = 3.14
-pi = x
+pi = 3.14
 area = pi  * radius ** 2
 area
 
@@ -81,11 +80,12 @@ area
 
 
 
+
 8.) What is the ouput of each of these?
-type(42)
-type(42.0)
-type("C3PO")
-type(True)
+type(42) int
+type(42.0) float
+type("C3PO") str
+type(True) bool
 
 
 
@@ -98,7 +98,7 @@ x = 4
 y = 5
 a = 3(x + y)
 a
-
+use a * before the () because () on its own doesnt work
 
 
 
@@ -108,7 +108,7 @@ a
 x,y,z =(3,4,5)
 ave = x+y+z/3
 ave
-
+should be ave=(x+y+z)/3
 
 
 
