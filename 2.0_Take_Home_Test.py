@@ -11,7 +11,7 @@ but I will definitely not ask another person except the instructor. Signed: Aida
 2 / 3 0.6666666666666666 this formula is for dividing
 2 // 3 0 this is the floor formula
 3/2 1.5 this formula is for square rooting
-3//2 1 this
+3//2 1 this cuts off everything from decimal on
 
 
 
