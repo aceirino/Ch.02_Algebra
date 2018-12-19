@@ -6,7 +6,7 @@ but I will definitely not ask another person except the instructor. Signed: Aida
 #use a hashtag to do a single line comment
 
 
-
+INCORRECT: What does floor do? 3/2 is not square rooting
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
 2 / 3 0.6666666666666666 this formula is for dividing
 2 // 3 0 this is the floor formula
@@ -26,7 +26,7 @@ the formula doesnt work due to a not being defined because we used a capital A
 
 
 
-
+INCORRECT, The best one would describe what it's used for.
 4.) All of the variable names below can be used. But which ONE of these is the better variable name to use?
 a this one
 A
@@ -39,7 +39,7 @@ Area_Of_Rectangle
 
 
 
-
+INCORRECT. The ones with symbols or periods can't be used either.
 5.) Which of these variables names are NOT allowed in Python? 
 Test them if you aren't sure.
 
