@@ -28,11 +28,11 @@ the formula doesnt work due to a not being defined because we used a capital A
 
 INCORRECT, The best one would describe what it's used for.
 4.) All of the variable names below can be used. But which ONE of these is the better variable name to use?
-a this one
+a
 A
 Area
 AREA
-area
+area this one
 area_of_rectangle
 Area_Of_Rectangle
 
@@ -47,7 +47,7 @@ Test them if you aren't sure.
 account# cant be used
 total% cant be used
 #left cant be used
-cant be used because they start with numbers or symbols
+cant be used because they start with numbers at the front or symbols and periods
 
 
 
